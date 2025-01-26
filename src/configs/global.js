@@ -58,6 +58,10 @@ const globalConfig = {
                 {
                     title: "Capcut Video Editor",
                     url: "https://www.capcut.com/my-edit"
+                },
+                {
+                    title: "YT Video Downloader", 
+                    url: "https://en1.savefrom.net/1-youtube-video-downloader-3vV/"
                 }
             ]
         },
@@ -92,6 +96,14 @@ const globalConfig = {
                 {
                     title: "Hex Color",
                     url: "https://www.google.com/search?q=hex+color&oq=hex+color&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTI5MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8"
+                },
+                {
+                    title: "Photo Enchancer Picsart", 
+                    url: "https://picsart.com/ai-image-enhancer/"
+                },
+                {
+                    title: "Image Resize", 
+                    url: "https://imageresizer.com/"
                 }
             ]
         },
